@@ -1,2 +1,3 @@
-# reactNavDemo
-react页面跳转
+运行项目
+npm install
+npm start
